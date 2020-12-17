@@ -15,9 +15,9 @@
 
 **Notice: If you want to modify my java code in NetBeans, you need to**
 
-**+ Install NetBeans IDE 8.2 RC**
+**1. Install NetBeans IDE 8.2 RC**
 
-**+ Add library of mysql-connector-java-5.1.49.jar which is at ./execute/lib.**
+**2. Add library of mysql-connector-java-5.1.49.jar which is at ./execute/lib.**
 
 ## Preparement
 **You can run the complete java code directly by double clicking OderWindowDemo.jar in "execute" folder, but before doing this we need to do something first.**
