@@ -40,5 +40,5 @@ You can
 ### Management Interface
 After logining you will see the home page of Management System.
 #### HomePage
-
+<img src="Demo/HomePage.JPG" height="400"/>
 
