@@ -42,3 +42,7 @@ After logining you will see the home page of Management System.
 #### HomePage
 <img src="Demo/Image/HomePage.JPG" height="400"/>
 
++ You can change the color of the whole theme at home page.
+<img src="Demo/ThemeChange.gif" height="400"/>
+
+
