@@ -28,4 +28,10 @@
 5. Right click and click refresh all in schema interface, then you will see the schema of company showing up!
 
 ## How to use and Demo
-**If you have done all steps of Requirments and Preparement, you can run directly by double clicking OderWindowDemo.jar in "execute" folder**
+**If you have done all steps of Requirments and Preparement, you can run directly by double clicking OderWindowDemo.jar in "execute" folder.**
+### Login Interface
+You can
++ Input root of username and 1234 of password to login this database management system.
+
++ Click cancel button will exit the whole execution.
+
