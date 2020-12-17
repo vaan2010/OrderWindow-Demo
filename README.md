@@ -13,4 +13,7 @@
 #### MySQL
 + MySQL Workbench 8.0 CE
 
-If you want modify my java code in NetBeans, you need to install NetBeans IDE 8.2 RC.
+**If you want modify my java code in NetBeans, you need to install NetBeans IDE 8.2 RC.**
+
+## Preparement
+**You can run the complete java code directly by double clicking OderWindowDemo.jar in execute folder**
