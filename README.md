@@ -13,7 +13,9 @@
 #### MySQL
 + MySQL Workbench 8.0 CE
 
-**Notice: If you want to modify my java code in NetBeans, you need to install NetBeans IDE 8.2 RC and add library of mysql-connector-java-5.1.49.jar which is at ./execute/lib.**
+**Notice: If you want to modify my java code in NetBeans, you need to**
+**+ Install NetBeans IDE 8.2 RC**
+**+ Add library of mysql-connector-java-5.1.49.jar which is at ./execute/lib.**
 
 
 ## Preparement
