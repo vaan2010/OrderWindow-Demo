@@ -32,7 +32,7 @@
 ### Login Interface
 You can
 + Input root of username and 1234 of password to login this database management system.
-<img src="Demo/Login.gif" height="380"/>
+<img src="Demo/Login.gif" height="400"/>
 
 + Click cancel button will exit the whole execution.
 <img src="Demo/Cancel.gif" height="400"/>
