@@ -62,7 +62,7 @@ After logining you will see the home page of Management System.
 + PSU
 3. Check this order is or not the member in the system by clicking the "會員打95折" button, if is, it will auto 5% off at totally price.
 4. Click "確認新增" to add new data into MySQL database, and you can click "重新整理" to see the data table after updating on the right.
-<img src="Demo/addDemo.gif" height="450"/>
+<img src="Demo/addDemo.gif" height="440"/>
 
 #### 查詢資料
 1. You can query the data of MySQL database you want by inputting
@@ -76,13 +76,13 @@ After logining you will see the home page of Management System.
 
 **Notice: It is no need to enter value at every coloum, just input the value or name you want to query.**
 
-<img src="Demo/queryDemo.gif" height="450"/>
+<img src="Demo/queryDemo.gif" height="440"/>
 
 #### 刪除資料
-<img src="Demo/deleteDemo.gif" height="450"/>
+<img src="Demo/deleteDemo.gif" height="440"/>
 
 #### 修改資料
-<img src="Demo/modifyDemo.gif" height="450"/>
+<img src="Demo/modifyDemo.gif" height="440"/>
 
 
 
