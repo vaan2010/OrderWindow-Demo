@@ -38,11 +38,20 @@ You can
 <img src="Demo/Cancel.gif" height="400"/>
 
 ### Management Interface
+There are five functions in the slide bar on the left, including
++ Home - Home Page
++ 新增資料 - you can add new data in this function
++ 查詢資料 - you can query data conditionally in this function
++ 刪除資料 - you can delete data in this function
++ 修改資料 - you can modify data you choose in this function
+
 After logining you will see the home page of Management System.
 #### HomePage
 <img src="Demo/Image/HomePage.JPG" height="400"/>
 
 + You can change the color of the whole theme at home page.
 <img src="Demo/ThemeChange.gif" height="380"/>
+
+ 
 
 
