@@ -32,10 +32,10 @@
 ### Login Interface
 You can
 + Input root of username and 1234 of password to login this database management system.
-<img src="Demo/Login.gif" height="400"/>
+<img src="Demo/Login.gif" height="420"/>
 
 + Click cancel button will exit the whole execution.
-<img src="Demo/Cancel.gif" height="400"/>
+<img src="Demo/Cancel.gif" height="420"/>
 
 ### Management Interface
 There are five functions in the slide bar on the left, including
@@ -62,7 +62,7 @@ After logining you will see the home page of Management System.
 + PSU
 3. Check this order is or not the member in the system by clicking the "會員打95折" button, if is, it will auto 5% off at totally price.
 4. Click "確認新增" to add new data into MySQL database, and you can click "重新整理" to see the data table after updating on the right.
-<img src="Demo/addDemo.gif" height="430"/>
+<img src="Demo/addDemo.gif" height="450"/>
 
 #### 查詢資料
 1. You can query the data of MySQL database you want by inputting
@@ -76,13 +76,13 @@ After logining you will see the home page of Management System.
 
 **Notice: It is no need to enter value at every coloum, just input the value or name you want to query.**
 
-<img src="Demo/queryDemo.gif" height="430"/>
+<img src="Demo/queryDemo.gif" height="450"/>
 
 #### 刪除資料
-<img src="Demo/deleteDemo.gif" height="430"/>
+<img src="Demo/deleteDemo.gif" height="450"/>
 
 #### 修改資料
-<img src="Demo/modifyDemo.gif" height="430"/>
+<img src="Demo/modifyDemo.gif" height="450"/>
 
 
 
