@@ -279,7 +279,7 @@ public class LoginUI extends javax.swing.JFrame {
     }//GEN-LAST:event_upupMouseExited
 
     private void caceMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_caceMouseClicked
-        this.dispose();
+        System.exit(0);
     }//GEN-LAST:event_caceMouseClicked
 
     /**

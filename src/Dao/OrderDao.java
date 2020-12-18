@@ -156,9 +156,8 @@ public class OrderDao implements ImplDao {
                                                         "&& gpu > ? && gpu < ? " +
                                                         "&& mb > ? && mb < ? " +
                                                         "&& ram > ? && ram < ? " +
-                                                        "&& psu > ? && psu < ? " + 
-                                                        "&& sum > ? && sum < ? ";
-        int[] a = new int[12];
+                                                        "&& psu > ? && psu < ? ";
+        int[] a = new int[10];
         
         for(int i=0;i<a.length;++i){
             if(i%2 == 1){
