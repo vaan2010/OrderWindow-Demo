@@ -75,6 +75,7 @@ After logining you will see the home page of Management System.
 + PSU -
 
 **Notice: It is no need to enter value at every coloum, just input the value or name you want to query.**
+
 <img src="Demo/queryDemo.gif" height="380"/>
 
 #### 刪除資料
