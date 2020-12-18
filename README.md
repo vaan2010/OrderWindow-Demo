@@ -52,6 +52,16 @@ After logining you will see the home page of Management System.
 + You can change the color of the whole theme at home page.
 <img src="Demo/ThemeChange.gif" height="380"/>
 
- 
+#### 新增資料
+1. You can add new data by inputting the order name at column of "訂單名稱".
+2. Choose the number of each commodity including 
++ IPS 面板
++ 顯示卡
++ 主機板
++ 記憶體
++ PSU
+3. Check this order is or not the member in the system by clicking the "會員打95折" button, if is, it will auto 5% off at totally price.
+4. Click "確認新增" to add new data into MySQL database, and you can click "重新整理" to see the data table after updating on the right.
+
 
 
