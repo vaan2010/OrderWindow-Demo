@@ -65,14 +65,6 @@ After logining you will see the home page of Management System.
 <img src="Demo/addDemo.gif" height="440"/>
 
 #### 查詢資料
-1. You can query the data of MySQL database you want by inputting
-+ ID - 
-+ 名稱 - 
-+ IPS 面板 -
-+ 顯示卡 -
-+ 主機板 -
-+ 記憶體 -
-+ PSU -
 
 **Notice: It is no need to enter value at every coloum, just input the value or name you want to query.**
 
